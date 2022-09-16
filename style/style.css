@@ -1,3 +1,10 @@
 body{
     background-color: rgb(122, 100, 79);
 }
+
+img{
+    margin-top: 70px;
+    margin-right: 70px;
+    margin-left: 400px;
+    border-radius: 50%;
+}
